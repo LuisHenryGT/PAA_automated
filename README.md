@@ -68,9 +68,9 @@ This repository includes a MATLAB implementation for processing and analyzing CT
    - Install **TotalSegmentator** to generate segmentation files.    Follow the installation instructions on the [TotalSegmentator GitHub page](https://github.com/wasserth/TotalSegmentator).
 
 2. **Run the Script:**
-   Configure the patient ID and path in `main.m`, then execute the script:
+   Configure your own path in `PA_A_Ration_Calculation.m`, then execute the script:
    ```matlab
-   run main.m
+   run PA_A_Ration_Calculation.m
    ```
 
 3. **Output:**
