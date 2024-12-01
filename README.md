@@ -6,8 +6,11 @@ Welcome to the repository for our project on automated measurement of the **Pulm
 
 The PA:A ratio is a clinically significant metric that can provide insights into various cardiopulmonary conditions like pulmonary hypertension. Traditionally, measuring this ratio involves either fully manual techniques or semi-automated software that still require significant user input. Our solution leverages **TotalSegmentator**, a state-of-the-art deep learning tool for medical image segmentation, to fully automate the process.
 
-### **Axial segmented Aorta and Pulmonary Artery** ### **3D Segmentation**
-![Segmentation on ct](PicturePAA1.png) ![Segmentation alone](Picturepaa3.png)
+### **Axial segmented Aorta and Pulmonary Artery**
+![Segmentation on ct](PicturePAA1.png) 
+
+### **3D Segmentation**
+![Segmentation alone](Picturepaa3.png)
 
 ### Key Features:
 - **Automated Segmentation:** The ascending aorta and pulmonary artery are segmented directly from CT scans using TotalSegmentator.
